@@ -21,7 +21,8 @@
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="![image](https://github.com/user-attachments/assets/f01b6f24-8889-4265-a355-937bd3318552)" width="50">
+
 </div>
 
 <div align="center" width="100%">
