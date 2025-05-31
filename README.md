@@ -20,10 +20,6 @@
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
-<div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/f01b6f24-8889-4265-a355-937bd3318552)" width="200">
-
-</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
@@ -41,13 +37,13 @@
   <br>
 
 <div align="center">
-  <img
+  <img***
     height=165
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
-  <img
+  <img***
     height=165
     align="center"
     alt="Top Language"
